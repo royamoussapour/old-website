@@ -17,7 +17,7 @@
 }
 
 ::selection {
-    background: #16a085;
+    background: #166ca0;
     color: #a4003a;
     text-shadow: none;
 }
@@ -63,7 +63,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #4a4a4a;
+    color: #494141;
 }
 
 
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-	color: #1abc9c;
+	color: #1a5ebc;
 }
 
 .navbar-default {
