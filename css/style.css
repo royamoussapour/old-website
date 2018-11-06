@@ -63,7 +63,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #494141;
+    color: #cc7878;
 }
 
 
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #1abc9c;
+	color: #1a5ebc;
 	background-color: transparent;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: #1abc9c;
+	color: #1a5ebc;
 }
 
 .navbar-default .navbar-toggle {
@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 #social {
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: #f2f2f2;
+	background-color: #f2dac5;
 }
 
 #social i {
@@ -162,17 +162,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i:hover {
-	color: #1abc9c
+	color: #1a5ebc
 }
 
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #2f2f2f;
+	background-color: #ce6161;
 }
 
 #footerwrap p {
-	color: #f2f2f2;
+	color: #f2dac5;
 	margin-left: 10px;
 }
 
@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {
-	background: url(../img/about.jpg) no-repeat center top;
+	background: url(../img/prof_pic.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-form .form-send button  {
-  background: #1abc9c;
+  background: #1a5ebc;
   border: 0;
   padding: 14px 40px;
   color: #fff;
@@ -388,7 +388,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Copyrights */
 
 #copyrights {
-  background: #222222;
+  background: #c98c8c;
   padding: 20px 0;
   text-align: center;
 }
@@ -399,7 +399,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #copyrights a {
-  color: #1abc9c;
+  color: #1a5ebc;
 }
 
 .credits {
