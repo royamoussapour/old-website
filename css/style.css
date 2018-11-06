@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 #social {
 	padding-top: 50px;
 	padding-bottom: 50px;
-	background-color: #f2dac5;
+	background-color: #7e7c7a;
 }
 
 #social i {
@@ -162,13 +162,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i:hover {
-	color: #544e4e
+	color: ##a14d4d
 }
 
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #726b6b;
+	background-color: #4f4b4b;
 }
 
 #footerwrap p {
