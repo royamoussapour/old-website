@@ -17,7 +17,7 @@
 }
 
 ::selection {
-    background: #166ca0;
+    background: #c78989;
     color: #a4003a;
     text-shadow: none;
 }
@@ -63,7 +63,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #cc7878;
+    color: #4a4a4a;
 }
 
 
@@ -403,5 +403,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .credits {
-  color: #999;
+  color: #fff;
 }
