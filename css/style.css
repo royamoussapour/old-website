@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/portugal_rocks.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -162,22 +162,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i:hover {
-	color: #1a5ebc
+	color: #a14d4d
 }
 
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #ce6161;
+	background-color: #a14d4d;
 }
 
 #footerwrap p {
-	color: #f2dac5;
+	color: #c78989;
 	margin-left: 10px;
 }
 
 #workwrap {
-	background: url(../img/work.jpg) no-repeat center top;
+	background: url(../img/beaconhill_snow.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {
-	background: url(../img/prof_pic.jpg) no-repeat center top;
+	background: url(../img/roya_vegas.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-form .form-send button  {
-  background: #1a5ebc;
+  background: #a14d4d;
   border: 0;
   padding: 14px 40px;
   color: #fff;
