@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-	color: #a14d4d;
+	color: #f2f2f2;
 }
 
 .navbar-default {
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: #f2f2f2;
+	color: #a14d4d;
 }
 
 .navbar-default .navbar-toggle {
