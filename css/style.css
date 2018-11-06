@@ -12,13 +12,13 @@
 
 ::-moz-selection {
     background: #f2c2c9;
-    color: #a4003a;
+    color: #51353f;
     text-shadow: none;
 }
 
 ::selection {
     background: #c78989;
-    color: #a4003a;
+    color: #51353f;
     text-shadow: none;
 }
 
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-toggle:hover {
-  background: ##c78989;
+  background: #897373;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -162,17 +162,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i:hover {
-	color: #a14d4d
+	color: #544e4e
 }
 
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
-	background-color: #a14d4d;
+	background-color: #726b6b;
 }
 
 #footerwrap p {
-	color: #c78989;
+	color: #a98888;
 	margin-left: 10px;
 }
 
