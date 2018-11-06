@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-	color: #1a5ebc;
+	color: #f2f2f2;
 }
 
 .navbar-default {
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #1a5ebc;
+	color: #f2f2f2;
 	background-color: transparent;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: #1a5ebc;
+	color: #f2f2f2;
 }
 
 .navbar-default .navbar-toggle {
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-toggle:hover {
-  background: #666;
+  background: ##c78989;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -399,7 +399,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #copyrights a {
-  color: #1a5ebc;
+  color: #f2f2f2;
 }
 
 .credits {
