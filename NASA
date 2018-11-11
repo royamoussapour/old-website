@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Roya Moussapour</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/icon1.png" rel="icon">
+  <link href="img/icon1.png" rel="icon1">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Template Name: Instant
+    Template URL: https://templatemag.com/instant-bootstrap-personal-template/
+    Author: TemplateMag.com
+    License: https://templatemag.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!-- Static navbar -->
+  <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        <a class="navbar-brand" href="index.html">Roya Moussapour</a>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="index.html">Home</a></li>
+          <li class="active"><a href="about.html">About</a></li>
+          <li><a href="works.html" class="smoothscroll">Works</a></li>
+        </ul>
+      </div>
+      <!--/.nav-collapse -->
+    </div>
+  </div>
+
+
+  <div id="aboutwrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-lg-offset-3">
+        </div>
+      </div>
+    </div>
+    <!-- /container -->
+  </div>
+
+  <div class="container">
+    <div class="row centered mt mb">
+      <div class="col-lg-8 col-lg-offset-2">
+        <h2>Roya Moussapour</h2>
+        <p>Hi! I'm Roya. I'm a 2017 Bowdoin grad working in Boston, passionate about education, technology, data visualizations, and music. I currently work at Compass Lexecon as a data analyst, spending most of my time working in our airlines practice and geeking out about Tableau. </p>
+        <p>At <a href="https://www.bowdoin.edu/" target="blank">Bowdoin College</a>, I majored in physics and minored in education. I was concertmaster of the Bowdoin Chamber Orchestra and business director of <a href="http://students.bowdoin.edu/miscellania/" target="blank">Miscellania</a>, Bowdoin's oldest all-women's a cappella group. </p>
+        <p>I spent a semester abroad in Madrid studying engineering at <a href="https://www.uc3m.es/Home" target="blank">Universidad Carlos III de Madrid</a>, where I <a href="https://www.iesabroad.org/blogs/author/222131" target="blank">blogged about my experience</a> traveling (eating) my way through Europe. I spent my academic summers at Bowdoin, in Huntsville, AL working for <a href="https://www.nasa.gov/centers/marshall/home/index.html" target="blank">NASA</a> on satellite design, and in D.C. at <a href="https://bateswhite.com" target="blank">Bates White Economic Consulting</a>.</p>
+        <p>I'm originally from Westchester County, NY, but have been thrilled to make New England my home for the last 5 years (and counting!). I've found an incredible community of like-minded musicians here in the <a href="https://me2orchestra.org/" target="blank">Me2/Orchestra</a>, and other than the occasional travel bug, I'm aiming to put down stronger roots in New England for the foreseeable future. </p>
+      </div>
+      
+    </div>
+  </div>
+
+    <div id="social">
+    <div class="container">
+      <div class="row centered">
+        <div class="col-sm-4">
+          <a href="https://twitter.com/Roya_Moussapour"><i class="fa fa-twitter"></i></a>
+        </div>
+        <div class="col-sm-4">
+          <a href="https://www.linkedin.com/in/roya-moussapour/"><i class="fa fa-linkedin"></i></a>
+        </div>
+        <div class="col-sm-4">
+          <a href="mailto:royamoussapour@gmail.com"><i class="fa fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="copyrights">
+    <div class="container">
+      <p>
+        &copy; Copyright <strong>Instant</strong>. All Rights Reserved
+      </p>
+      <div class="credits">
+        <!--
+          You are NOT allowed to delete the credit link to TemplateMag with free version.
+          You can delete the credit link only if you bought the pro version.
+          Buy the pro version with working PHP/AJAX contact form: https://templatemag.com/instant-bootstrap-personal-template/
+          Licensing information: https://templatemag.com/license/
+        -->
+        Created with Instant template by <a href="https://templatemag.com/">TemplateMag</a>
+      </div>
+    </div>
+  </div>
+  <!-- / copyrights -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/php-mail-form/validate.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
